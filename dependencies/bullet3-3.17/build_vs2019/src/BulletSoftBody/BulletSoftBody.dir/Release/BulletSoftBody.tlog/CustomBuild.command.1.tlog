@@ -1,0 +1,10 @@
+^D:\ALEXANDRE\DOCUMENTS\PROJETS\[GLOWWORMENGINE]\SIMU\SIMULATION_ROBOT_1\SIMULATION_ROBOT_1\DEPENDENCIES\BULLET3-3.17\SRC\BULLETSOFTBODY\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/alexandre/Documents/Projets/[GlowWormEngine]/Simu/Simulation_Robot_1/Simulation_Robot_1/dependencies/bullet3-3.17 -BD:/alexandre/Documents/Projets/[GlowWormEngine]/Simu/Simulation_Robot_1/Simulation_Robot_1/dependencies/bullet3-3.17/build_vs2019 --check-stamp-file D:/alexandre/Documents/Projets/[GlowWormEngine]/Simu/Simulation_Robot_1/Simulation_Robot_1/dependencies/bullet3-3.17/build_vs2019/src/BulletSoftBody/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,13 @@
+﻿  Building Custom Rule D:/alexandre/Documents/Projets/[GlowWormEngine]/Simu/Simulation_Robot_1/Simulation_Robot_1/dependencies/bullet3-3.17/Extras/BulletRoboticsGUI/CMakeLists.txt
+  InProcessExampleBrowser.cpp
+  GraphicsServerExample.cpp
+  GraphicsClientExample.cpp
+  RemoteGUIHelper.cpp
+  RemoteGUIHelperTCP.cpp
+  PhysicsServerExample.cpp
+  PhysicsServerExampleBullet2.cpp
+  SharedMemoryInProcessPhysicsC_API.cpp
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\SharedMemory\SharedMemoryInProcessPhysicsC_API.cpp(428,1): warning C4065: l'instruction switch contient 'default' mais aucune étiquette 'case'
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\SharedMemory\SharedMemoryInProcessPhysicsC_API.cpp(516,1): warning C4065: l'instruction switch contient 'default' mais aucune étiquette 'case'
+  Génération de code en cours...
+  BulletRoboticsGUI.vcxproj -> D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\build_vs2019\lib\Release\BulletRoboticsGUI.lib

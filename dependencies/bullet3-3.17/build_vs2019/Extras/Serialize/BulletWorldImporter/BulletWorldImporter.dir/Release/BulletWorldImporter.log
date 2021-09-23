@@ -1,0 +1,16 @@
+﻿  Building Custom Rule D:/alexandre/Documents/Projets/[GlowWormEngine]/Simu/Simulation_Robot_1/Simulation_Robot_1/dependencies/bullet3-3.17/Extras/Serialize/BulletWorldImporter/CMakeLists.txt
+  btMultiBodyWorldImporter.cpp
+  btBulletWorldImporter.cpp
+  btWorldImporter.cpp
+  Génération de code en cours...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(636,5): error MSB6003: Impossible d'exécuter la tâche exécutable spécifiée "CL.exe". System.IO.DirectoryNotFoundException: Impossible de trouver une partie du chemin d'accès 'D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\build_vs2019\Extras\Serialize\BulletWorldImporter\BulletWorldImporter.dir\Release\BulletWo.6FA77452.tlog'.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(636,5): error MSB6003:    à System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(636,5): error MSB6003:    à System.IO.FileSystemEnumerableIterator`1.CommonInit()
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(636,5): error MSB6003:    à System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(636,5): error MSB6003:    à System.IO.Directory.GetFiles(String path, String searchPattern)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(636,5): error MSB6003:    à Microsoft.Build.Utilities.TrackedDependencies.ExpandWildcards(ITaskItem[] expand)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(636,5): error MSB6003:    à Microsoft.Build.Utilities.CanonicalTrackedOutputFiles.InternalConstruct(ITask ownerTask, ITaskItem[] tlogFiles, Boolean constructOutputsFromTLogs)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(636,5): error MSB6003:    à Microsoft.Build.Utilities.CanonicalTrackedOutputFiles..ctor(ITaskItem[] tlogFiles)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(636,5): error MSB6003:    à Microsoft.Build.CPPTasks.CL.PostExecuteTool(Int32 exitCode)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(636,5): error MSB6003:    à Microsoft.Build.CPPTasks.TrackedVCToolTask.ExecuteTool(String pathToTool, String responseFileCommands, String commandLineCommands)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(636,5): error MSB6003:    à Microsoft.Build.Utilities.ToolTask.Execute()

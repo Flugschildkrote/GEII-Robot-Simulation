@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skybox>
+	<Textures>
+		<Front>ft.jpg</Front>
+		<Back>bk.jpg</Back>
+		<Left>lf.jpg</Left>
+		<Right>rt.jpg</Right>
+		<Up>up.jpg</Up>
+		<Down>dn.jpg</Down>
+	</Textures>
+	<BoxSize>4</BoxSize>
+</Skybox>

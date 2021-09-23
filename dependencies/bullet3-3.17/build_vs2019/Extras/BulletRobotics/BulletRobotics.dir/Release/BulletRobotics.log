@@ -1,0 +1,192 @@
+﻿  Building Custom Rule D:/alexandre/Documents/Projets/[GlowWormEngine]/Simu/Simulation_Robot_1/Simulation_Robot_1/dependencies/bullet3-3.17/Extras/BulletRobotics/CMakeLists.txt
+  SpAlg.cpp
+  Shape.cpp
+  RBDUtil.cpp
+  RBDModel.cpp
+  MathUtil.cpp
+  KinTree.cpp
+  BulletConversion.cpp
+  SimpleCamera.cpp
+  geometry.cpp
+  model.cpp
+  tgaimage.cpp
+  our_gl.cpp
+  TinyRenderer.cpp
+  collisionFilterPlugin.cpp
+  pdControlPlugin.cpp
+  b3RobotSimulatorClientAPI_NoGUI.cpp
+  b3RobotSimulatorClientAPI_NoDirect.cpp
+  IKTrajectoryHelper.cpp
+  tinyRendererPlugin.cpp
+  TinyRendererVisualShapeConverter.cpp
+  Génération de code en cours...
+  Compilation en cours...
+  InProcessMemory.cpp
+  PhysicsClient.cpp
+  PhysicsServer.cpp
+  PhysicsServerSharedMemory.cpp
+  PhysicsDirect.cpp
+  PhysicsDirectC_API.cpp
+  PhysicsServerCommandProcessor.cpp
+  b3PluginManager.cpp
+  PhysicsClientSharedMemory.cpp
+  PhysicsClientSharedMemory_C_API.cpp
+  PhysicsClientC_API.cpp
+  Win32SharedMemory.cpp
+  PosixSharedMemory.cpp
+  b3ResourcePath.cpp
+  RobotLoggingUtil.cpp
+  b3Clock.cpp
+  ChromeTraceUtil.cpp
+  tinyxml2.cpp
+  tiny_obj_loader.cpp
+  stb_image.cpp
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(220,9): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(228,17): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(268,9): warning C4312: 'cast de type' : la conversion de 'int' en 'float *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(290,17): warning C4312: 'cast de type' : la conversion de 'int' en 'float *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(524,10): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(601,10): warning C4312: 'cast de type' : la conversion de 'int' en 'float *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(628,10): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(1643,43): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(1680,12): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(1707,11): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(2851,43): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(2984,47): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(2990,64): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3001,30): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3003,23): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3014,46): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3058,14): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3062,13): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3085,19): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3092,11): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3110,11): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3164,12): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3380,24): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3391,28): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3396,11): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3577,10): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3581,10): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3589,10): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3597,10): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3610,10): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3627,10): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3631,19): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3795,26): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3824,11): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3835,25): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3836,33): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3853,13): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3874,29): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3894,29): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3906,16): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3917,33): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3944,24): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(3945,32): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4177,23): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4182,31): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4188,13): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4202,12): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4233,27): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4243,28): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4262,13): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4299,13): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4336,12): warning C4312: 'cast de type' : la conversion de 'int' en 'unsigned char *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4458,10): warning C4312: 'cast de type' : la conversion de 'int' en 'float *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4468,21): warning C4312: 'cast de type' : la conversion de 'int' en 'float *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4473,39): warning C4312: 'cast de type' : la conversion de 'int' en 'float *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4477,39): warning C4312: 'cast de type' : la conversion de 'int' en 'float *' d'une taille supérieure
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\stb_image\stb_image.cpp(4537,12): warning C4312: 'cast de type' : la conversion de 'int' en 'float *' d'une taille supérieure
+  Génération de code en cours...
+  Compilation en cours...
+  Jacobian.cpp
+  LinearR2.cpp
+  LinearR3.cpp
+  LinearR4.cpp
+  MatrixRmn.cpp
+  Misc.cpp
+  Node.cpp
+  Tree.cpp
+  VectorRn.cpp
+  LoadMeshFromCollada.cpp
+  LoadMeshFromObj.cpp
+  Wavefront2GLInstanceGraphicsShape.cpp
+  BulletMJCFImporter.cpp
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\Importers\ImportMJCFDemo\BulletMJCFImporter.cpp(1450,54): warning C4804: '>' : utilisation risquée du type 'bool' dans l'opération
+  BulletUrdfImporter.cpp
+  MyMultiBodyCreator.cpp
+  URDF2Bullet.cpp
+  UrdfParser.cpp
+  urdfStringSplit.cpp
+  b3ImportMeshUtility.cpp
+  b3PosixThreadSupport.cpp
+  Génération de code en cours...
+  Compilation en cours...
+  b3Win32ThreadSupport.cpp
+  b3ThreadSupportInterface.cpp
+  main_vhacd.cpp
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\Extras\VHACD\test\src\main_vhacd.cpp(16,1): warning C4005: '_CRT_SECURE_NO_WARNINGS' : redéfinition de macro
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\Extras\VHACD\test\src\main_vhacd.cpp : message : voir la définition précédente de '_CRT_SECURE_NO_WARNINGS'
+  VHACD.cpp
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\Extras\VHACD\src\VHACD.cpp(16,1): warning C4005: '_CRT_SECURE_NO_WARNINGS' : redéfinition de macro
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\Extras\VHACD\src\VHACD.cpp : message : voir la définition précédente de '_CRT_SECURE_NO_WARNINGS'
+  vhacdICHull.cpp
+  vhacdManifoldMesh.cpp
+  vhacdMesh.cpp
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\Extras\VHACD\src\vhacdMesh.cpp(15,1): warning C4005: '_CRT_SECURE_NO_WARNINGS' : redéfinition de macro
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\Extras\VHACD\src\vhacdMesh.cpp : message : voir la définition précédente de '_CRT_SECURE_NO_WARNINGS'
+  vhacdVolume.cpp
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\Extras\VHACD\src\vhacdVolume.cpp(15,1): warning C4005: '_CRT_SECURE_NO_WARNINGS' : redéfinition de macro
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\Extras\VHACD\src\vhacdVolume.cpp : message : voir la définition précédente de '_CRT_SECURE_NO_WARNINGS'
+  PhysicsClientUDP.cpp
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\SharedMemory\PhysicsClientUDP.cpp(167,8): warning C4477: 'printf' : la chaîne de format '%lu' nécessite un argument de type 'unsigned long', mais l'argument variadique 1 est de type 'size_t'
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\SharedMemory\PhysicsClientUDP.cpp(167,8): message : utilisez '%zu' dans la chaîne de format
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\SharedMemory\PhysicsClientUDP.cpp(223,8): warning C4477: 'printf' : la chaîne de format '%lu' nécessite un argument de type 'unsigned long', mais l'argument variadique 1 est de type 'size_t'
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\SharedMemory\PhysicsClientUDP.cpp(223,8): message : utilisez '%zu' dans la chaîne de format
+  PhysicsClientUDP_C_API.cpp
+  PhysicsClientTCP.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\stdint.h(57,1): warning C4005: 'UINT8_MAX' : redéfinition de macro
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\clsocket\src\Host.h(107): message : voir la définition précédente de 'UINT8_MAX'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\stdint.h(58,1): warning C4005: 'UINT16_MAX' : redéfinition de macro
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\clsocket\src\Host.h(110): message : voir la définition précédente de 'UINT16_MAX'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\stdint.h(59,1): warning C4005: 'UINT32_MAX' : redéfinition de macro
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\clsocket\src\Host.h(113): message : voir la définition précédente de 'UINT32_MAX'
+  PhysicsClientTCP_C_API.cpp
+  SimpleSocket.cpp
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\clsocket\src\SimpleSocket.h(484,10): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\clsocket\src\SimpleSocket.h(498,10): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\clsocket\src\SimpleSocket.cpp(177,29): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\clsocket\src\SimpleSocket.cpp(895,6): warning C4996: 'lseek': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _lseek. See online help for details.
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\clsocket\src\SimpleSocket.cpp(904,8): warning C4996: 'read': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _read. See online help for details.
+  ActiveSocket.cpp
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\clsocket\src\SimpleSocket.h(484,10): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\clsocket\src\SimpleSocket.h(498,10): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\clsocket\src\ActiveSocket.cpp(65,15): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\clsocket\src\ActiveSocket.cpp(145,15): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\clsocket\src\ActiveSocket.cpp(203,15): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  PassiveSocket.cpp
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\clsocket\src\SimpleSocket.h(484,10): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\clsocket\src\SimpleSocket.h(498,10): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\clsocket\src\PassiveSocket.cpp(80,17): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\clsocket\src\PassiveSocket.cpp(94,47): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\clsocket\src\PassiveSocket.cpp(165,17): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  Génération de code en cours...
+  win32.c
+  unix.c
+  callbacks.c
+  compress.c
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\enet\compress.c(308,5): warning C4146: opérateur moins unaire appliqué à un type non signé, le résultat sera non signé
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\enet\compress.c(313,6): warning C4146: opérateur moins unaire appliqué à un type non signé, le résultat sera non signé
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\enet\compress.c(331,3): warning C4146: opérateur moins unaire appliqué à un type non signé, le résultat sera non signé
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\enet\compress.c(560,5): warning C4146: opérateur moins unaire appliqué à un type non signé, le résultat sera non signé
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\enet\compress.c(575,4): warning C4146: opérateur moins unaire appliqué à un type non signé, le résultat sera non signé
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\enet\compress.c(590,4): warning C4146: opérateur moins unaire appliqué à un type non signé, le résultat sera non signé
+D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\examples\ThirdPartyLibs\enet\compress.c(605,3): warning C4146: opérateur moins unaire appliqué à un type non signé, le résultat sera non signé
+  host.c
+  list.c
+  packet.c
+  peer.c
+  protocol.c
+  Génération de code en cours...
+  BulletRobotics.vcxproj -> D:\alexandre\Documents\Projets\[GlowWormEngine]\Simu\Simulation_Robot_1\Simulation_Robot_1\dependencies\bullet3-3.17\build_vs2019\lib\Release\BulletRobotics.lib
